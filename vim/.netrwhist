@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/jennifershih/Documents/CS184/assign0/example_00/example_00'
+let g:netrw_dirhist_2='/Users/jennifershih/Documents/EE126/hw2'
+let g:netrw_dirhist_3='/Users/jennifershih/Documents/EE227/EE127/hw5/images'
+let g:netrw_dirhist_4='/Users/jennifershih/Documents/CS189/hw5/writeup'
+let g:netrw_dirhist_5='/Users/jennifershih/Documents/EE227/EE227C/project_new'
+let g:netrw_dirhist_6='/Users/jennifershih/Documents/CS174/hw3'
+let g:netrw_dirhist_7='/Users/jennifershih/Documents/summer_research/Trajectory-Optimization/utils'
+let g:netrw_dirhist_8='/Users/jennifershih/Documents/github.io/_includes'
